@@ -1,4 +1,4 @@
-# ubereats
+# FoodDeli
 
 A new Flutter project.
 
